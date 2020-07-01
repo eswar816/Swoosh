@@ -22,5 +22,6 @@
     <string name="finish">Finish</string>
     <string name="beginner">BEGINNER</string>
     <string name="baller">BALLER</string>
+    <string name="search_league">TextView</string>
 
 </resources>
